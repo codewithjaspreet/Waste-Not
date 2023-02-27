@@ -1,14 +1,1 @@
-# waste_not
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help 
+![wastenot](https://user-images.githubusercontent.com/85099922/221542153-394fdc71-8dec-4176-954a-d4755eb5a236.png)
